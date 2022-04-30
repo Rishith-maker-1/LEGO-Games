@@ -17,7 +17,7 @@ function f(){
     window.location="https://rishith-maker-1.github.io/lij-toa";
 }
 function g(){
-    window.location="https://rishith-maker-1.github.io/lij-tac";
+    window.location="https://rishith-maker-1.github.io/lij2-tac";
 }
 function h(){
     window.location="https://rishith-maker-1.github.io/llotr";
