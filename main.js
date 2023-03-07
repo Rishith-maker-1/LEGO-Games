@@ -64,3 +64,7 @@ function k(){
     document.getElementById('s2').style.display='block'; //to show
     document.getElementById('s1').style.display='none'; //to hide
 }
+function goback(){
+    document.getElementById('s1').style.display='block'; //to show
+    document.getElementById('s2').style.display='none'; //to hide
+}
