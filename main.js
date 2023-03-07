@@ -5,32 +5,62 @@ function a(){
     document.getElementById('s1').style.display='none'; //to hide
 }
 function b(){
-    window.location="https://rishith-maker-1.github.io/lb2";
+    link="https://rishith-maker-1.github.io/lb2";
+    document.getElementById('IFRAME').src = link;
+    document.getElementById('s2').style.display='block'; //to show
+    document.getElementById('s1').style.display='none'; //to hide
 }
 function c(){
-    window.location="https://rishith-maker-1.github.io/pc";
+    link="https://rishith-maker-1.github.io/pc";
+    document.getElementById('IFRAME').src = link;
+    document.getElementById('s2').style.display='block'; //to show
+    document.getElementById('s1').style.display='none'; //to hide
 }
 function d(){
-    window.location="https://rishith-maker-1.github.io/hp1-4";
+    link="https://rishith-maker-1.github.io/hp1-4";
+    document.getElementById('IFRAME').src = link;
+    document.getElementById('s2').style.display='block'; //to show
+    document.getElementById('s1').style.display='none'; //to hide
 }
 function e(){
-    window.location="https://rishith-maker-1.github.io/hp5-7";
+    link="https://rishith-maker-1.github.io/hp5-7";
+    document.getElementById('IFRAME').src = link;
+    document.getElementById('s2').style.display='block'; //to show
+    document.getElementById('s1').style.display='none'; //to hide
 }
 function f(){
-    window.location="https://rishith-maker-1.github.io/lij-toa";
+    link="https://rishith-maker-1.github.io/lij-toa";
+    document.getElementById('IFRAME').src = link;
+    document.getElementById('s2').style.display='block'; //to show
+    document.getElementById('s1').style.display='none'; //to hide
 }
 function g(){
-    window.location="https://rishith-maker-1.github.io/lij2-tac";
+    link="https://rishith-maker-1.github.io/lij2-tac";
+    document.getElementById('IFRAME').src = link;
+    document.getElementById('s2').style.display='block'; //to show
+    document.getElementById('s1').style.display='none'; //to hide
 }
 function h(){
-    window.location="https://rishith-maker-1.github.io/llotr";
+    link="https://rishith-maker-1.github.io/llotr";
+    document.getElementById('IFRAME').src = link;
+    document.getElementById('s2').style.display='block'; //to show
+    document.getElementById('s1').style.display='none'; //to hide
 }
 function i(){
-    window.location="https://rishith-maker-1.github.io/lsw3";
+    link="https://rishith-maker-1.github.io/lsw3";
+    document.getElementById('IFRAME').src = link;
+    document.getElementById('s2').style.display='block'; //to show
+    document.getElementById('s1').style.display='none'; //to hide
 }
 function j(){
-    window.location="https://rishith-maker-1.github.io/lsw-tcs";
+    link="https://rishith-maker-1.github.io/lsw-tcs";
+    document.getElementById('IFRAME').src = link;
+    document.getElementById('s2').style.display='block'; //to show
+    document.getElementById('s1').style.display='none'; //to hide
 }
 function k(){
-    window.location="https://rishith-maker-1.github.io/lb1";
+    link="https://rishith-maker-1.github.io/lb1";
+    document.getElementById('IFRAME').src = link;
+    document.getElementById('s2').style.display='block'; //to show
+    document.getElementById('s1').style.display='none'; //to hide
 }
