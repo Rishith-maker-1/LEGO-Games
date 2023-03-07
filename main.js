@@ -78,5 +78,4 @@ function k(){
 function goback(){
     document.getElementById('s1').style.display='block'; //to show
     document.getElementById('s2').style.display='none'; //to hide
-    document.getElementById('name').innerHTML="LEGO"
 }
