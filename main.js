@@ -1,6 +1,6 @@
 function a(){
     link="https://rishith-maker-1.github.io/lms";
-    document.getElementById['IFRAME'].src = link;
+    document.getElementById('IFRAME').src = link;
     document.getElementById('s2').style.display='block'; //to show
     document.getElementById('s1').style.display='none'; //to hide
 }
