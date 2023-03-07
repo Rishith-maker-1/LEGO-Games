@@ -1,5 +1,6 @@
 function a(){
-    window.location="https://rishith-maker-1.github.io/lms";
+    link="https://rishith-maker-1.github.io/lms";
+    document.getElementById['IFRAME'].src = link;
 }
 function b(){
     window.location="https://rishith-maker-1.github.io/lb2";
