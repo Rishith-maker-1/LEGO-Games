@@ -20,3 +20,6 @@ img:not(#photo){
 .linerow{
     display: inline-block;
 }
+#photo{
+    padding-bottom: 5px;
+}
