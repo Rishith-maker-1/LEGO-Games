@@ -17,3 +17,6 @@ img:not(#photo){
     border-radius: 20px;
     width: 200px;
 }
+.linerow{
+    display: inline-block;
+}
