@@ -22,5 +22,5 @@ img:not(#photo){
     display: inline-block;
 }
 #photo{
-    padding-bottom: 10px;
+    padding: 10px;
 }
