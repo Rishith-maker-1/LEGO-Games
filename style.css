@@ -11,7 +11,7 @@ button{
     border-color: white;
     border-style: none;
     border-radius: 50px;
-    padding: 25px;
+    margin: 25px;
 }
 img:not(#photo){
     border-radius: 20px;
@@ -21,5 +21,5 @@ img:not(#photo){
     display: inline-block;
 }
 #photo{
-    padding-bottom: 5px;
+    padding-bottom: 10px;
 }
