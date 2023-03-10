@@ -91,8 +91,13 @@ function goback(){
     document.getElementById('s2').style.display='none'; //to hide
 }
 function notphone(){
-    document.getElementById('s2').style.display='none';
-    document.getElementById('s1').style.display='none';
-    document.getElementById('s3').style.display='block';
+    
 }
-        
+window.onload = function() {
+    const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+    if (isMobile) {
+        document.getElementById('s2').style.display='none';
+        document.getElementById('s1').style.display='none';
+        document.getElementById('s3').style.display='block';
+    }
+} 
